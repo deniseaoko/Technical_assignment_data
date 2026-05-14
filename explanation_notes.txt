@@ -1,6 +1,6 @@
 Data cleaning involed dropping 1 duplicate and changing the data types.
 The summary statistics indicate that the data had 243 entries and on average customers spend about $19.8 and leave a $3.00 tip for a party of roughly two to three people, with tips ranging from a minimum of $1.00 to a maximum of $10.00.
-The exploratory data analysis (EDA) using histogram revea a right-skewed distribution of tip amounts, while box plots by day indicated that Friday and Sunday not have higher median tips.Saturday has the the highest variance (outliers), suggesting that weekend service is a primary driver of high-value outcomes.
+The exploratory data analysis (EDA) using histogram revea a right-skewed distribution of tip amounts, while box plots by day indicated that Friday and Sunday  have higher median tips.Saturday has the the highest variance (outliers), suggesting that weekend service is a primary driver of high-value outcomes.
 The scatter plot indicate that people with large bills are more inconsistent tippers than people with small bills.
 
 The prediction model indicate that total bill is the most influential variable in this model.There is a postive correlation between the total bill and the tip.
